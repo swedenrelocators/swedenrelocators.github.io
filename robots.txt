@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://relofy.com
+Sitemap: https://relofy.com/sitemap.xml

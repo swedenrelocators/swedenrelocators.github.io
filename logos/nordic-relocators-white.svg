@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-label="Nordic Relocators">
+  <defs>
+    <symbol id="lwStar" viewBox="-12 -12 24 24">
+      <polygon points="0,-11 3,-3.5 11,-3.5 4.5,1.5 7,10 0,5 -7,10 -4.5,1.5 -11,-3.5 -3,-3.5"/>
+    </symbol>
+  </defs>
+
+  <!-- Five stars across the top: red, gold, white, light-blue, white (dark-friendly) -->
+  <g transform="translate(310,18)">
+    <use href="#lwStar" x="0"   y="0" fill="#E63E3E"/>
+    <use href="#lwStar" x="32"  y="0" fill="#F4B81C"/>
+    <use href="#lwStar" x="64"  y="0" fill="#FFFFFF"/>
+    <use href="#lwStar" x="96"  y="0" fill="#3D8DD8"/>
+    <use href="#lwStar" x="128" y="0" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Bird in white -->
+  <g fill="#FFFFFF" transform="translate(0,55)">
+    <path d="M5 38
+             C 35 12, 95 6, 160 16
+             C 205 22, 250 32, 290 32
+             C 312 32, 326 28, 336 22
+             L 338 32
+             C 326 42, 304 48, 282 48
+             C 256 48, 224 40, 196 40
+             C 170 40, 142 46, 112 56
+             C 90 62, 60 66, 36 60
+             C 18 56, 6 50, 5 38 Z"/>
+    <path d="M 130 32
+             C 158 16, 192 14, 220 22
+             C 196 28, 172 36, 154 44
+             C 138 48, 128 42, 130 32 Z"
+          fill="#0A1F44" opacity="0.55"/>
+    <circle cx="328" cy="24" r="2.4" fill="#0A1F44"/>
+  </g>
+
+  <!-- Wordmark in white -->
+  <text x="370" y="110"
+        font-family="Georgia, 'Playfair Display', 'Times New Roman', serif"
+        font-weight="900"
+        font-size="62"
+        letter-spacing="-1"
+        fill="#FFFFFF">NORDIC RELOCATORS</text>
+</svg>

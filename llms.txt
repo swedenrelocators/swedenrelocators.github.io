@@ -1,0 +1,28 @@
+# Relofy
+
+> Relofy (relofy.com) is a global digital platform that connects individuals, families and companies with immigration, relocation and global mobility professionals through one digital profile. Clients create one profile, add family members and immigration history, and book a consultation; the Relofy team reviews their background, goals and challenges and coordinates the right professionals. Relofy is published by Relofy Tech AB (Org.nr 559509-5695, Malmö, Sweden). It is not a government authority and does not guarantee immigration outcomes.
+
+## Key facts
+
+- Core idea: "The client changes countries, not platforms." The profile stays available for future services and relocations, subject to privacy requirements.
+- Sweden: services by Sweden Relocators AB (Org.nr 559025-2648), Amiralsgatan 86E, 214 37 Malmö, +46 72 327 62 76, info@swedenrelocators.se, https://swedenrelocators.se
+- Denmark: services by Nordic Relocators (CVR 41200677), Roskildevej 30B, 2620 Albertslund, +45 53 76 62 76, info@nordicrelocators.dk, https://nordicrelocators.dk
+- Other countries: approved independent partners in the Relofy Partner Network.
+- Recruitment and manpower in the group: Future Concerns AB, https://futureconcerns.eu
+- Platform: the portal at https://portal.nordicrelocators.com (registration, login, appointments, documents, cases, invoices, partner dashboards), built by Relofy Tech AB, certified to SBSC Cyber Security Basic (SSF 1101).
+
+## Pages
+
+- [Home](https://relofy.com/): Relocate from Anywhere to Anywhere; client and partner pathways
+- [For Clients](https://relofy.com/clients/): individuals, families and corporate clients; benefits; the consultation process (Background, Goals and Current Issues, Solutions)
+- [For Partners](https://relofy.com/partners/): Industry Professionals and Service Providers; the B2B referral network; onboarding (Apply, Verification, Agreement, Approval, Training, Partner Dashboard); Partner Academy
+- [How Relofy Works](https://relofy.com/how-it-works/): the six-step client journey and who does what
+- [Our Network](https://relofy.com/network/): the companies behind Relofy
+- [About](https://relofy.com/about/), [Contact](https://relofy.com/contact/), [FAQ](https://relofy.com/faq/)
+
+## Get started
+
+- Create a client profile: https://portal.nordicrelocators.com/signup/?role=individual
+- Create a company account: https://portal.nordicrelocators.com/signup/?role=corporate
+- Apply as a partner: https://portal.nordicrelocators.com/partner-signup/
+- Log in: https://portal.nordicrelocators.com/signin/

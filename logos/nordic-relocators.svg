@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-label="Nordic Relocators">
+  <defs>
+    <linearGradient id="navyWing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#102A6E"/>
+      <stop offset="100%" stop-color="#0A1F44"/>
+    </linearGradient>
+    <symbol id="lgStar" viewBox="-12 -12 24 24">
+      <polygon points="0,-11 3,-3.5 11,-3.5 4.5,1.5 7,10 0,5 -7,10 -4.5,1.5 -11,-3.5 -3,-3.5"/>
+    </symbol>
+  </defs>
+
+  <!-- Five stars across the top: red, gold, navy, blue, white -->
+  <g transform="translate(310,18)">
+    <use href="#lgStar" x="0"   y="0" fill="#D62828"/>
+    <use href="#lgStar" x="32"  y="0" fill="#F4B81C"/>
+    <use href="#lgStar" x="64"  y="0" fill="#0A1F44"/>
+    <use href="#lgStar" x="96"  y="0" fill="#1E78C8"/>
+    <use href="#lgStar" x="128" y="0" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="0.6"/>
+  </g>
+
+  <!-- Navy bird / wing flowing in from the left -->
+  <g fill="url(#navyWing)" transform="translate(0,55)">
+    <path d="M5 38
+             C 35 12, 95 6, 160 16
+             C 205 22, 250 32, 290 32
+             C 312 32, 326 28, 336 22
+             L 338 32
+             C 326 42, 304 48, 282 48
+             C 256 48, 224 40, 196 40
+             C 170 40, 142 46, 112 56
+             C 90 62, 60 66, 36 60
+             C 18 56, 6 50, 5 38 Z"/>
+    <!-- Inner wing accent -->
+    <path d="M 130 32
+             C 158 16, 192 14, 220 22
+             C 196 28, 172 36, 154 44
+             C 138 48, 128 42, 130 32 Z"
+          fill="#0A1F44" opacity="0.85"/>
+    <!-- Tip highlight -->
+    <circle cx="328" cy="24" r="2.4" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Wordmark: NORDIC RELOCATORS -->
+  <text x="370" y="110"
+        font-family="Georgia, 'Playfair Display', 'Times New Roman', serif"
+        font-weight="900"
+        font-size="62"
+        letter-spacing="-1"
+        fill="#0B0B0B">NORDIC RELOCATORS</text>
+</svg>
